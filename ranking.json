@@ -5,8 +5,8 @@
       "class": 3,
       "subClass": 3,
       "wins": 14,
-      "kills": 26,
-      "deaths": 101,
+      "kills": 29,
+      "deaths": 102,
       "points": 63
     },
     {
@@ -33,7 +33,7 @@
       "subClass": 3,
       "wins": 9,
       "kills": 40,
-      "deaths": 63,
+      "deaths": 66,
       "points": 43
     },
     {
@@ -68,7 +68,7 @@
       "class": 1,
       "subClass": 0,
       "wins": 9,
-      "kills": 187,
+      "kills": 190,
       "deaths": 40,
       "points": 38
     },
@@ -95,8 +95,8 @@
       "class": 0,
       "subClass": 2,
       "wins": 8,
-      "kills": 42,
-      "deaths": 59,
+      "kills": 44,
+      "deaths": 60,
       "points": 37
     },
     {
@@ -105,7 +105,7 @@
       "subClass": 3,
       "wins": 6,
       "kills": 2,
-      "deaths": 21,
+      "deaths": 24,
       "points": 35
     },
     {
@@ -123,7 +123,7 @@
       "subClass": 2,
       "wins": 10,
       "kills": 12,
-      "deaths": 108,
+      "deaths": 111,
       "points": 34
     },
     {
@@ -167,8 +167,8 @@
       "class": 0,
       "subClass": 2,
       "wins": 6,
-      "kills": 55,
-      "deaths": 38,
+      "kills": 59,
+      "deaths": 39,
       "points": 30
     },
     {
@@ -240,7 +240,7 @@
       "subClass": 2,
       "wins": 8,
       "kills": 14,
-      "deaths": 90,
+      "deaths": 92,
       "points": 27
     },
     {
@@ -257,8 +257,8 @@
       "class": 3,
       "subClass": 2,
       "wins": 9,
-      "kills": 471,
-      "deaths": 40,
+      "kills": 480,
+      "deaths": 41,
       "points": 25
     },
     {
@@ -383,8 +383,8 @@
       "class": 2,
       "subClass": 0,
       "wins": 7,
-      "kills": 65,
-      "deaths": 84,
+      "kills": 70,
+      "deaths": 87,
       "points": 17
     },
     {
@@ -410,7 +410,7 @@
       "class": 3,
       "subClass": 2,
       "wins": 5,
-      "kills": 33,
+      "kills": 35,
       "deaths": 68,
       "points": 16
     },
@@ -474,7 +474,7 @@
       "subClass": 0,
       "wins": 7,
       "kills": 18,
-      "deaths": 106,
+      "deaths": 109,
       "points": 14
     },
     {
@@ -653,8 +653,8 @@
       "class": 3,
       "subClass": 3,
       "wins": 4,
-      "kills": 2,
-      "deaths": 74,
+      "kills": 3,
+      "deaths": 75,
       "points": 8
     },
     {
@@ -680,8 +680,8 @@
       "class": 0,
       "subClass": 0,
       "wins": 3,
-      "kills": 43,
-      "deaths": 48,
+      "kills": 46,
+      "deaths": 49,
       "points": 7
     },
     {
@@ -977,8 +977,8 @@
       "class": 2,
       "subClass": 1,
       "wins": 5,
-      "kills": 23,
-      "deaths": 91,
+      "kills": 24,
+      "deaths": 92,
       "points": 4
     },
     {
@@ -1032,7 +1032,7 @@
       "subClass": 3,
       "wins": 5,
       "kills": 6,
-      "deaths": 114,
+      "deaths": 115,
       "points": 3
     },
     {
@@ -1275,7 +1275,16 @@
       "subClass": 1,
       "wins": 0,
       "kills": 5,
-      "deaths": 6,
+      "deaths": 9,
+      "points": 0
+    },
+    {
+      "charName": "-Parkmann-",
+      "class": 0,
+      "subClass": 2,
+      "wins": 0,
+      "kills": 5,
+      "deaths": 20,
       "points": 0
     },
     {
@@ -1312,15 +1321,6 @@
       "wins": 0,
       "kills": 3,
       "deaths": 9,
-      "points": 0
-    },
-    {
-      "charName": "-Parkmann-",
-      "class": 0,
-      "subClass": 2,
-      "wins": 0,
-      "kills": 3,
-      "deaths": 18,
       "points": 0
     },
     {
@@ -1432,18 +1432,27 @@
       "points": 0
     },
     {
-      "charName": "xStefano",
-      "class": 3,
-      "subClass": 2,
+      "charName": "OniMg",
+      "class": 1,
+      "subClass": 0,
+      "wins": 0,
+      "kills": 1,
+      "deaths": 0,
+      "points": 0
+    },
+    {
+      "charName": "ThiegoxD",
+      "class": 0,
+      "subClass": 1,
       "wins": 0,
       "kills": 1,
       "deaths": 3,
       "points": 0
     },
     {
-      "charName": "I-M-THE-BEST",
-      "class": 2,
-      "subClass": 0,
+      "charName": "xStefano",
+      "class": 3,
+      "subClass": 2,
       "wins": 0,
       "kills": 1,
       "deaths": 3,
@@ -1459,18 +1468,18 @@
       "points": 0
     },
     {
-      "charName": "ThiegoxD",
-      "class": 0,
-      "subClass": 1,
+      "charName": "I-M-THE-BEST",
+      "class": 2,
+      "subClass": 0,
       "wins": 0,
       "kills": 1,
-      "deaths": 3,
+      "deaths": 4,
       "points": 0
     },
     {
-      "charName": "Cama",
+      "charName": "MeMamaAq",
       "class": 0,
-      "subClass": 0,
+      "subClass": 3,
       "wins": 0,
       "kills": 1,
       "deaths": 6,
@@ -1486,9 +1495,9 @@
       "points": 0
     },
     {
-      "charName": "MeMamaAq",
+      "charName": "Cama",
       "class": 0,
-      "subClass": 3,
+      "subClass": 0,
       "wins": 0,
       "kills": 1,
       "deaths": 6,
@@ -1527,7 +1536,7 @@
       "subClass": 3,
       "wins": 1,
       "kills": 1,
-      "deaths": 45,
+      "deaths": 48,
       "points": 0
     },
     {
@@ -1540,15 +1549,6 @@
       "points": 0
     },
     {
-      "charName": "BOLIVIAN0",
-      "class": 3,
-      "subClass": 3,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 2,
-      "points": 0
-    },
-    {
       "charName": "ANDROIDE-17",
       "class": 0,
       "subClass": 1,
@@ -1558,18 +1558,27 @@
       "points": 0
     },
     {
-      "charName": "Osir?s",
-      "class": 1,
-      "subClass": 2,
+      "charName": "BOLIVIAN0",
+      "class": 3,
+      "subClass": 3,
       "wins": 0,
       "kills": 0,
-      "deaths": 3,
+      "deaths": 2,
       "points": 0
     },
     {
       "charName": "Shelldor",
       "class": 1,
       "subClass": 0,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "points": 0
+    },
+    {
+      "charName": "-CODE-",
+      "class": 2,
+      "subClass": 3,
       "wins": 0,
       "kills": 0,
       "deaths": 3,
@@ -1585,9 +1594,18 @@
       "points": 0
     },
     {
-      "charName": "-CODE-",
-      "class": 2,
-      "subClass": 3,
+      "charName": "dropfarm",
+      "class": 1,
+      "subClass": 2,
+      "wins": 0,
+      "kills": 0,
+      "deaths": 3,
+      "points": 0
+    },
+    {
+      "charName": "Frogmetal",
+      "class": 3,
+      "subClass": 0,
       "wins": 0,
       "kills": 0,
       "deaths": 3,
@@ -1612,18 +1630,9 @@
       "points": 0
     },
     {
-      "charName": "dropfarm",
+      "charName": "Osir?s",
       "class": 1,
       "subClass": 2,
-      "wins": 0,
-      "kills": 0,
-      "deaths": 3,
-      "points": 0
-    },
-    {
-      "charName": "Frogmetal",
-      "class": 3,
-      "subClass": 0,
       "wins": 0,
       "kills": 0,
       "deaths": 3,
@@ -1657,18 +1666,18 @@
       "points": 0
     },
     {
-      "charName": "-SoyHT-",
-      "class": 3,
-      "subClass": 0,
+      "charName": "1BastarD3",
+      "class": 2,
+      "subClass": 3,
       "wins": 0,
       "kills": 0,
       "deaths": 6,
       "points": 0
     },
     {
-      "charName": "1BastarD3",
-      "class": 2,
-      "subClass": 3,
+      "charName": "-SoyHT-",
+      "class": 3,
+      "subClass": 0,
       "wins": 0,
       "kills": 0,
       "deaths": 6,
@@ -1689,7 +1698,7 @@
       "subClass": 0,
       "wins": 0,
       "kills": 0,
-      "deaths": 9,
+      "deaths": 10,
       "points": 0
     },
     {
@@ -1707,7 +1716,7 @@
       "subClass": 0,
       "wins": 0,
       "kills": 0,
-      "deaths": 12,
+      "deaths": 13,
       "points": 0
     }
   ],
@@ -1789,8 +1798,8 @@
       "class": 1,
       "subClass": 0,
       "wins": 11,
-      "kills": 88,
-      "deaths": 104,
+      "kills": 93,
+      "deaths": 106,
       "points": 44
     },
     {
@@ -1898,7 +1907,7 @@
       "subClass": 0,
       "wins": 9,
       "kills": 93,
-      "deaths": 98,
+      "deaths": 99,
       "points": 28
     },
     {
@@ -1934,7 +1943,7 @@
       "subClass": 2,
       "wins": 7,
       "kills": 0,
-      "deaths": 55,
+      "deaths": 57,
       "points": 28
     },
     {
@@ -2060,7 +2069,7 @@
       "subClass": 2,
       "wins": 6,
       "kills": 0,
-      "deaths": 54,
+      "deaths": 55,
       "points": 21
     },
     {
@@ -2086,7 +2095,7 @@
       "class": 3,
       "subClass": 3,
       "wins": 6,
-      "kills": 35,
+      "kills": 38,
       "deaths": 64,
       "points": 19
     },
@@ -2266,8 +2275,8 @@
       "class": 3,
       "subClass": 3,
       "wins": 5,
-      "kills": 160,
-      "deaths": 85,
+      "kills": 163,
+      "deaths": 86,
       "points": 11
     },
     {
@@ -2275,8 +2284,8 @@
       "class": 0,
       "subClass": 2,
       "wins": 5,
-      "kills": 72,
-      "deaths": 96,
+      "kills": 73,
+      "deaths": 98,
       "points": 11
     },
     {
@@ -2284,8 +2293,8 @@
       "class": 3,
       "subClass": 3,
       "wins": 2,
-      "kills": 27,
-      "deaths": 19,
+      "kills": 29,
+      "deaths": 21,
       "points": 11
     },
     {
@@ -2474,7 +2483,7 @@
       "subClass": 0,
       "wins": 2,
       "kills": 7,
-      "deaths": 34,
+      "deaths": 37,
       "points": 6
     },
     {
